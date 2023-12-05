@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XGDvMXh5KvR21B/C2jIhN6ANrYmdHgAhGjrvj0o+ggc=",
+  "Source": "API_JWT_TravelBooking",
+  "BasePath": "_content/API_JWT_TravelBooking",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+C:\Users\suhanig\Desktop\API_JWT_TravelBooking\ClassLibraryAPI_JWP_Trvael\bin\Debug\net6.0\ClassLibraryAPI_JWP_Trvael.deps.json
+C:\Users\suhanig\Desktop\API_JWT_TravelBooking\ClassLibraryAPI_JWP_Trvael\bin\Debug\net6.0\ClassLibraryAPI_JWP_Trvael.dll
+C:\Users\suhanig\Desktop\API_JWT_TravelBooking\ClassLibraryAPI_JWP_Trvael\bin\Debug\net6.0\ClassLibraryAPI_JWP_Trvael.pdb
+C:\Users\suhanig\Desktop\API_JWT_TravelBooking\ClassLibraryAPI_JWP_Trvael\obj\Debug\net6.0\ClassLibraryAPI_JWP_Trvael.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suhanig\Desktop\API_JWT_TravelBooking\ClassLibraryAPI_JWP_Trvael\obj\Debug\net6.0\ClassLibraryAPI_JWP_Trvael.AssemblyInfoInputs.cache
+C:\Users\suhanig\Desktop\API_JWT_TravelBooking\ClassLibraryAPI_JWP_Trvael\obj\Debug\net6.0\ClassLibraryAPI_JWP_Trvael.AssemblyInfo.cs
+C:\Users\suhanig\Desktop\API_JWT_TravelBooking\ClassLibraryAPI_JWP_Trvael\obj\Debug\net6.0\ClassLibraryAPI_JWP_Trvael.csproj.CoreCompileInputs.cache
+C:\Users\suhanig\Desktop\API_JWT_TravelBooking\ClassLibraryAPI_JWP_Trvael\obj\Debug\net6.0\ClassLibraryAPI_JWP_Trvael.dll
+C:\Users\suhanig\Desktop\API_JWT_TravelBooking\ClassLibraryAPI_JWP_Trvael\obj\Debug\net6.0\refint\ClassLibraryAPI_JWP_Trvael.dll
+C:\Users\suhanig\Desktop\API_JWT_TravelBooking\ClassLibraryAPI_JWP_Trvael\obj\Debug\net6.0\ClassLibraryAPI_JWP_Trvael.pdb
+C:\Users\suhanig\Desktop\API_JWT_TravelBooking\ClassLibraryAPI_JWP_Trvael\obj\Debug\net6.0\ref\ClassLibraryAPI_JWP_Trvael.dll
